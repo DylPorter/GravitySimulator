@@ -1,4 +1,4 @@
-# GravitySimulator
+# GravitySimulator 0.1
 
 A simple simulation of orbital mechanics created in C++ using the [raylib](https://www.raylib.com/) library.
 
